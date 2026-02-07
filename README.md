@@ -10,9 +10,4 @@
 * Phrasal Verbs (contextual application)
 * Idioms (enhancing expression & fluency)
 
-🔹 Bonus Content:
-| Vocab Assessments | Reading Articles |
-|--|--|
-| <a href="https://github.com/mohitdhami/Daily-Vocab-MCQs-Test/tree/main">Daily Vocab MCQs Test</a> | <a href="https://github.com/mohitdhami/My-Daily-Article">Daily Article + Assessment</a> |
-
 Refine your language skills to communicate with confidence and clarity.
